@@ -1,8 +1,8 @@
 # Face Recognition Using Eigen Faces
 
 ## Dependencies
-[Numpy](https://numpy.org/)
-[PIL](https://pypi.org/project/Pillow/)
+[Numpy](https://numpy.org/)<br>
+[PIL](https://pypi.org/project/Pillow/)<br>
 [Open-CV](https://pypi.org/project/opencv-python/)
 
 ## Installation
